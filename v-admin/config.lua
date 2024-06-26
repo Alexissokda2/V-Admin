@@ -15,7 +15,7 @@ Config = {
 
     Touche = { -- TOUCHE MENU
         Noclip = 170, --F3
-        Menu = 57, --F10
+        Menu = 57, --F1
         MenuReport = 344, --F11
     }
 }
